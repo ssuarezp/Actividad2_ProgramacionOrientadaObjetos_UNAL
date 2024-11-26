@@ -1,15 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package ejercicio13;
-
-/**
- *
- * @author santi
- */
+package ejercicio10;
 public class Estudiante {
-    
     public static double obtener_pagmat(double pat, int est){
     double pagmat=50000;
         if ((pat>2000000)&&(est>3)){
