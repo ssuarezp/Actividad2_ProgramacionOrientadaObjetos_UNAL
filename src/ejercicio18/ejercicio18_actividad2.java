@@ -1,5 +1,8 @@
-//Ejercicio propuesto 18
-package ejercicio18_actividad2;
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package ejercicio18;
 
 /**
  *
