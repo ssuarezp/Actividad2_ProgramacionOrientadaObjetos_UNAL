@@ -2,7 +2,7 @@ package ejercicio10;
 import java.util.Scanner;
 public class ejercicio10_actividad2 {  
     public static void main(String[] args) {
-        //Ejercicio 10-pág 56
+        //Ejercicio resuelto 10-pág 56
         int ni, est;
         String nombre, apellido;
         double pat, pagmat;
