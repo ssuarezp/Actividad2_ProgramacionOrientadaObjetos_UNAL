@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class ejercicio10_actividad2 {  
     public static void main(String[] args) {
         //Ejercicio resuelto 10-pág 56
+        System.out.println("Ejercicio resuelto 10");
         int ni, est;
         String nombre, apellido;
         double pat, pagmat;
